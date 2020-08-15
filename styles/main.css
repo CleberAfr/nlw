@@ -60,7 +60,7 @@ textarea {
 #container {
     width: 90vw; /*widht = largura*/
     max-width: 700px;
-    text-align: center;
+    /*text-align: center;*/
 }
     :root {
         font-size: 62.5%; /*todo 1rem vai ser relativo a 10px*/
